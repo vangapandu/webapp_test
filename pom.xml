@@ -8,7 +8,7 @@
   <name>CounterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
-   <build>
+   <!--<build>
         <plugins>
             <plugin>
                 <groupId>org.jboss.as.plugins</groupId>
@@ -23,7 +23,7 @@
 				</configuration>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
